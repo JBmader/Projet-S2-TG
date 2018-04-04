@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1522832485 source:c:\users\adrie\desktop\eceps2\main.cpp
+	<iostream>
+	<allegro.h>
+	"affichage.h"
+
+1522832525 source:c:\users\adrie\desktop\eceps2\affichage.cpp
+	<iostream>
+	<allegro.h>
+
+1522832343 c:\users\adrie\desktop\eceps2\affichage.h
+
+1522832525 source:c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\affichage.cpp
+	<iostream>
+	<allegro.h>
+
+1522832485 source:c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\main.cpp
+	<iostream>
+	<allegro.h>
+	"affichage.h"
+
+1522832343 c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\affichage.h
+
+1522834509 source:c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\arrete.cpp
+	"Arrete.h"
+
+1522833139 c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\arrete.h
+	"Sommet.h"
+
+1522833139 c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\sommet.h
+	<iostream>
+
+1522834527 source:c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\graphe.cpp
+	"Graphe.h"
+
+1522833139 c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\graphe.h
+	<vector>
+	<iostream>
+	"Sommet.h"
+	"Arrete.h"
+
+1522833139 source:c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\sommet.cpp
+	"Sommet.h"
+
+1522832525 source:c:\users\grégoire maillard\dropbox\ece ptg\menu_retour_sans_classe\affichage.cpp
+	<iostream>
+	<allegro.h>
+
+1522832485 source:c:\users\grégoire maillard\dropbox\ece ptg\menu_retour_sans_classe\main.cpp
+	<iostream>
+	<allegro.h>
+	"affichage.h"
+
+1522832343 c:\users\grégoire maillard\dropbox\ece ptg\menu_retour_sans_classe\affichage.h
+
+1522834993 source:c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\src\arrete.cpp
+	"Arrete.h"
+
+1522835123 c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\include\arrete.h
+	"Sommet.h"
+
+1522835123 c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\include\sommet.h
+	<iostream>
+
+1522835123 source:c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\src\graphe.cpp
+	"Graphe.h"
+
+1522835123 c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\include\graphe.h
+	<vector>
+	<iostream>
+	"Sommet.h"
+	"Arrete.h"
+
+1522835123 source:c:\users\jeanb\dropbox\ece ptg\menu_retour_sans_classe\src\sommet.cpp
+	"Sommet.h"
+
