@@ -1,0 +1,508 @@
+# depslib dependency file v1.0
+1522921329 source:c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1522656089 c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522539041 c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522575424 c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522750784 c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522515823 source:c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522636919 source:c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522657075 source:c:\users\jeanb\desktop\projet ing2 s2\ressource campus\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1522921329 source:c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1522656089 c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522539041 c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522575424 c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522750784 c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522515823 source:c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522636919 source:c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522657075 source:c:\users\grégoire maillard\dropbox\ece ptg\ressource campus\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1522959434 source:c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\graph.cpp
+	"graph.h"
+
+1522959085 c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522539041 c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\grman_couleurs.h
+
+1522575424 c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\coords.h
+	<cmath>
+
+1522750784 c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\coords.cpp
+	"coords.h"
+
+1522961479 source:c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522636919 source:c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\widget.cpp
+	"widget.h"
+
+1522961517 source:c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+	"affichage.h"
+
+1522959434 source:c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\graph.cpp
+	"graph.h"
+
+1522959085 c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522539041 c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\grman_couleurs.h
+
+1522575424 c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\coords.h
+	<cmath>
+
+1522750784 c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\coords.cpp
+	"coords.h"
+
+1522961479 source:c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522636919 source:c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\grman\widget.cpp
+	"widget.h"
+
+1522961517 source:c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+	"affichage.h"
+
+1522960888 source:c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\affichage.cpp
+	<iostream>
+	<allegro.h>
+
+1522960888 c:\users\jeanb\dropbox\ece ptg\copie jb avec code de fercoq\ps2\affichage.h
+
+1522960888 c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\affichage.h
+
+1522962247 source:c:\users\adrie\dropbox\ece ptg\copie jb avec code de fercoq\ps2\affichage.cpp
+	<iostream>
+	<allegro.h>
+
+1523007253 source:c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\graph.cpp
+	"graph.h"
+	"grman/grman.h"
+	"grman/widget.h"
+
+1523008334 c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522963033 c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522963932 c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\grman_couleurs.h
+
+1522575424 c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\coords.h
+	<cmath>
+
+1522750784 c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\coords.cpp
+	"coords.h"
+
+1522636919 source:c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\widget.cpp
+	"widget.h"
+
+1522963033 source:c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\affichage.cpp
+	<iostream>
+	<allegro.h>
+
+1522963033 source:c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+	"affichage.h"
+
+1522963033 c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\affichage.h
+
+1523007399 source:c:\users\adrie\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522963033 source:c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\affichage.cpp
+	<iostream>
+	<allegro.h>
+
+1522959434 source:c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\graph.cpp
+	"graph.h"
+
+1522959085 c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522963033 c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222372 c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\grman_couleurs.h
+
+1522575424 c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\coords.h
+	<cmath>
+
+1522750784 c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\coords.cpp
+	"coords.h"
+
+1522963111 source:c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522636919 source:c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\grman\widget.cpp
+	"widget.h"
+
+1522963033 source:c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+	"affichage.h"
+
+1522963033 c:\users\jeanb\dropbox\ece ptg\copie adri + code fercoq\ps2\affichage.h
+
+1522963033 source:c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\affichage.cpp
+	<iostream>
+	<allegro.h>
+
+1522575069 source:c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\grman\coords.cpp
+	"coords.h"
+
+1522575424 c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\grman\coords.h
+	<cmath>
+
+1523010612 source:c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522963033 c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523010573 c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\grman\grman_couleurs.h
+
+1522750784 c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522636919 source:c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\grman\widget.cpp
+	"widget.h"
+
+1523020255 source:c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+	"affichage.h"
+
+1523020250 c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522963033 c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\affichage.h
+
+1523012215 source:c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\src\bouton.cpp
+	"Bouton.h"
+
+1523018301 c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\include\bouton.h
+	"C:\Users\adrie\Dropbox\ECE PTG\Copie jb 06-04\ps2\grman\grman.h"
+	<iostream>
+	<stack>
+
+1523020376 source:c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\graph.cpp
+	"graph.h"
+	"grman/grman.h"
+	"grman/widget.h"
+
+1522963033 source:c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\affichage.cpp
+	<iostream>
+	<allegro.h>
+
+1523018539 source:c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\graph.cpp
+	"graph.h"
+	"grman/grman.h"
+	"grman/widget.h"
+
+1523018539 c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522963033 c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523010573 c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\grman\grman_couleurs.h
+
+1522575424 c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\grman\coords.h
+	<cmath>
+
+1522750784 c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575069 source:c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\grman\coords.cpp
+	"coords.h"
+
+1522636919 source:c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\grman\widget.cpp
+	"widget.h"
+
+1523018539 source:c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+	"affichage.h"
+	"Bouton.h"
+
+1522963033 c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\affichage.h
+
+1523012215 source:c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\src\bouton.cpp
+	"Bouton.h"
+
+1523018301 c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\include\bouton.h
+	"C:\Users\adrie\Dropbox\ECE PTG\Copie jb 06-04\ps2\grman\grman.h"
+	<iostream>
+	<stack>
+
+1523010612 source:c:\users\adrie\dropbox\ece ptg\copie jb 06-04\ps2\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523010618 c:\users\jeanb\dropbox\ece ptg\copie jb 06-04\ps2\grman
+
