@@ -1,0 +1,6 @@
+#ifndef CHAINE1_H_INCLUDED
+#define CHAINE1_H_INCLUDED
+
+
+
+#endif // CHAINE1_H_INCLUDED
